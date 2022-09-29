@@ -1,0 +1,15 @@
+{
+  "id": "started",
+  "type": "boolean",
+  "title": {
+    "en": "Started",
+    "nl": "Gestart",
+    "de": "Gestartet"
+  },
+  "getable": true,
+  "setable": false,
+  "zoneActivity": false,
+  "uiComponent": "sensor",
+  "uiQuickAction": true,
+  "icon": "assets/started.svg"
+}

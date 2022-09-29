@@ -1,0 +1,12 @@
+{
+  "id": "measure_duration",
+  "type": "number",
+  "title": {
+    "en": "Duration",
+    "nl": "Looptijd",
+    "de": "Dauer"
+  },
+  "getable": true,
+  "setable": false,
+  "icon": "assets/duration.svg"
+}
