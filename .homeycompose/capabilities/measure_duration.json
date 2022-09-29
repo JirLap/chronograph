@@ -6,6 +6,7 @@
     "nl": "Looptijd",
     "de": "Dauer"
   },
+  "units": "minutes",
   "getable": true,
   "setable": false,
   "icon": "assets/duration.svg"
